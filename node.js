@@ -1,5 +1,4 @@
 var express = require('express')
-var http = require('http')
 app = express()
 
 app.get('/', function(req, res){
